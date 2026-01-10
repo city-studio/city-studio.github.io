@@ -735,15 +735,15 @@ https://tv.ando.eu.org/live.php?id=bosigolf1_twn
 https://itv.us.kg/smart.php?id=bosigolf2_twn
 #EXTINF:-1 tvg-name="博斯高球2台" tvg-logo="https://itv.us.kg/logo/博斯高球2.png" group-title="体育",博斯高球2台
 https://tv.ando.eu.org/live.php?id=bosigolf2_twn
-#EXTINF:-1, group-title="日本" tvg-name="香蕉台" tvg-logo="https://itv.us.kg/logo/香蕉台.png",香蕉台
+#EXTINF:-1 tvg-name="香蕉台" tvg-logo="https://itv.us.kg/logo/香蕉台.png" group-title="日本",香蕉台
 http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/85.ts
-#EXTINF:-1, group-title="日本" tvg-name="潘朵啦高畫質玩美台" tvg-logo="https://itv.us.kg/logo/潘朵啦玩美.png",潘朵啦高畫質玩美台
+#EXTINF:-1 tvg-name="潘朵啦高畫質玩美台" tvg-logo="https://itv.us.kg/logo/潘朵啦玩美.png" group-title="日本",潘朵啦高畫質玩美台
 http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/86.ts
-#EXTINF:-1, group-title="日本" tvg-name="驚豔成人電影台" tvg-logo="https://itv.us.kg/logo/惊艳台.png",驚豔台
+#EXTINF:-1 tvg-name="驚豔成人電影台" tvg-logo="https://itv.us.kg/logo/惊艳台.png" group-title="日本",驚豔台
 http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/87.ts
-#EXTINF:-1, group-title="日本" tvg-name="松視1台" tvg-logo="https://itv.us.kg/logo/松视1台.png",松視1台
+#EXTINF:-1 tvg-name="松視1台" tvg-logo="https://itv.us.kg/logo/松视1台.png" group-title="日本",松視1台
 http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/88.ts
-#EXTINF:-1, group-title="日本" tvg-name="松視2台" tvg-logo="https://itv.us.kg/logo/松视2台.png",松視2台
+#EXTINF:-1 tvg-name="松視2台" tvg-logo="https://itv.us.kg/logo/松视2台.png" group-title="日本",松視2台
 http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/89.ts
-#EXTINF:-1, group-title="日本" tvg-name="松視3台" tvg-logo="https://itv.us.kg/logo/松视3台.png",松視3台
+#EXTINF:-1 tvg-name="松視3台" tvg-logo="https://itv.us.kg/logo/松视3台.png" group-title="日本",松視3台
 http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/90.ts
